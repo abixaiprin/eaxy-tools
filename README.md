@@ -7,6 +7,9 @@ Une fotos, capturas o escaneos en un solo PDF, y convierte facturas (PDF o foto)
 
 ![tests](https://github.com/abixaiprin/eaxy-tools/actions/workflows/tests.yml/badge.svg) ![license](https://img.shields.io/badge/license-MIT-0F9D8A) ![python](https://img.shields.io/badge/python-3.10%2B-10201D)
 
+> 🧾 **¿Quieres el reporte del mes listo?** [Eaxy Contador VE](https://www.agensi.io/creators/abixai-prin) (skill en Agensi): carpeta de facturas venezolanas → Excel en USD con la tasa BCV de cada fecha, IVA y avisos. Funciona en Claude Code, Cursor y más de 20 agentes.
+> *Need the monthly report done? Eaxy Contador VE on Agensi turns Venezuelan invoices into an Excel report in USD.*
+
 <p align="center"><img src="assets/terminal.png" alt="eaxy en la terminal convirtiendo una factura de ejemplo" width="80%"></p>
 
 ## Por qué
